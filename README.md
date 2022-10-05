@@ -11,7 +11,7 @@
 **Важно:** делайте репозиторий ***приватным***
 
 3. В README.md напишите: Имя, Фамилия, номер группы
-4. Добавьте меня (PolinaChubenko) в коллабораторы ([инструкция](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)).
+4. Добавьте нас (DimaSavichev и eaglemango) в коллабораторы ([инструкция](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)).
 
 
 ### Как заливать задачи (можно все делать в веб-версии гитхаба и не клонировать репозиторий):
