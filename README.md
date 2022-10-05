@@ -6,10 +6,7 @@
 
 ### Подготовка репозитория:
 1. Зарегистрируйтесь в гитхабе, если вы этого еще не сделали
-2. Создайте репозиторий ([инструкция](https://docs.github.com/en/get-started/quickstart/create-a-repo)). 
-
-**Важно:** делайте репозиторий ***приватным***
-
+2. Создайте ***приватный*** репозиторий ([инструкция](https://docs.github.com/en/get-started/quickstart/create-a-repo)). На всякий случай: не указывайте в названии репозитория ВУЗ, потому что в связи с текущей ситуацией такое название может попасть под санкции GitHub
 3. В README.md напишите: Имя, Фамилия, номер группы
 4. Добавьте нас (DimaSavichev и eaglemango) в коллабораторы ([инструкция](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)).
 
